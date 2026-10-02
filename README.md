@@ -67,3 +67,9 @@ python3 -m http.server 8000
 ```
 
 Then open http://localhost:8000 in your browser. Press `Ctrl+C` in the terminal to stop the server.
+
+## Author and Credits
+
+- **Author:** Ayesha Atif
+- **Coursework:** Graphics – Midterm
+- Built with [p5.js](https://p5js.org/), p5.sound and [Matter.js](https://brm.io/matter-js/)
