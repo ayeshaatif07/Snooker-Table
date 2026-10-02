@@ -5,7 +5,7 @@ An interactive snooker game built with [p5.js](https://p5js.org/), [p5.sound](ht
 ## Features
 
 - Three game modes with different ball arrangements.
-- Realistic ball physics: collisions, cushion bounces and friction-free sliding.
+- Realistic ball physics: collisions and cushion bounces.
 - Mouse and keyboard controls.
 - Power adjuster: a vertical meter that shows how hard the shot will be.
 - Sound effects for collisions, pockets and powerful shots.
